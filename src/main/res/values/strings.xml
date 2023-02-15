@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flora Usher</string>
+    <string name="nameerror">Enter valid Name</string>
+    <string name="emailerror">Enter valid Email</string>
+    <string name="passworderror">Password must be of atleast 4 characters and atleast one special character</string>
+    <string name="mobileerror">Enter valid Number</string>
+    <string name="addresserror">Enter valid Address</string>
+</resources>
